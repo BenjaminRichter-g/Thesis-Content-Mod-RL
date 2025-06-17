@@ -1,1 +1,10 @@
 mastodoner
+pytest
+datasets
+setfit
+sentence-transformers
+psycopg2
+python-dotenv
+beautifulsoup4
+lxml
+emoji
