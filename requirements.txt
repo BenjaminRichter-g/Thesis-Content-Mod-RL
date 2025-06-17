@@ -8,3 +8,10 @@ python-dotenv
 beautifulsoup4
 lxml
 emoji
+torch 
+transformers 
+bitsandbytes 
+tqdm
+huggingface_hub
+llama-cpp-python
+bitsandbytes
