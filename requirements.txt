@@ -13,5 +13,4 @@ transformers
 bitsandbytes 
 tqdm
 huggingface_hub
-llama-cpp-python
 bitsandbytes

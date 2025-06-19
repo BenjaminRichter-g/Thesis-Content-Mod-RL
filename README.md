@@ -15,5 +15,11 @@ and activated with following command:
 ```
 source venv/bin/activate
 ```
+if you're on windows, on powershell execute:
+```
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+.\venv\Scripts\Activate.ps1
+```
+
 
 

@@ -1,0 +1,5 @@
+venv
+.env
+**/__pycache__/
+data/racist_binary_classif/checkpoints
+data/racist_binary_classif/racism-setfit-model
