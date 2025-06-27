@@ -1,2 +1,5 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
 data/second_stage_classification/output_timeline.jsonl filter=lfs diff=lfs merge=lfs -text
 data/racist_binary_classif/best-setfit-model/model.safetensors filter=lfs diff=lfs merge=lfs -text
