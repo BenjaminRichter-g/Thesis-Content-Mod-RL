@@ -3,7 +3,7 @@
 To run the setfit_binary from root of project execute:
 
 ```
-python -m data.racist_binary_classif.setfit_binary
+python -m data.racist_binary_classif.setfit_binary_train
 ```
 
 note:
@@ -21,3 +21,7 @@ with labels:
 11 racists
 72 non-racists
 0.94 accuracy
+
+51 racists
+72 non-racists
+Accuracy: 0.88
